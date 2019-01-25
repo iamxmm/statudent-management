@@ -1,1 +1,1 @@
-# statudent-management
+# student-management
